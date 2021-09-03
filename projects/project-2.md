@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/datahouse.png
+title: DataHouse Internship Project
+permalink: projects/datahouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-9-15
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
+  - HTML
+  - AWS
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: An internship project where we had to develop a website for the state.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
