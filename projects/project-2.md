@@ -1,18 +1,18 @@
 ---
 layout: project
 type: project
-image: images/cansat.JPG
-title: CanSat Project
-permalink: projects/CanSat
+image: images/swu.jpg
+title: SWU Project
+permalink: projects/SWU
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-01
 labels:
-  - Robotics
-  - Arduino
-  - Python
-summary: My team developed a rocket that was able to carry a certain payload with GPS tracking.
+  - Javascript
+  - Github
+  - HTML
+summary: In this internship project, we were tasked with developing a webpage for the state.
 ---
 
-The CanSat project was a competition where we had to create a rocket that was able to carry a certain payload and travel a certain distance into the sky. We also had to track the GPS coordinates of our rocket and the temperature of the rocket. To do this, we needed to use arduino's and attach them on to our rocket. It was my task to program these arduinos and make it so that we could communicate with it from the ground while it is in the sky. The coding language these arduino's used was Python which was a coding language I had never used before so I learned it as we went through the project.
+The goal of this internship project was to design and develop a website for the state of Hawaii. The purpose of this website 
 
 You can learn more at the [SWU Website](https://dev.cimp2021.datahouse.com/Home).
