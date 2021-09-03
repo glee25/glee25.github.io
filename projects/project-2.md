@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/datahouse.png
+image: images/swu.png
 title: DataHouse Internship Project
 permalink: projects/datahouse
 # All dates must be YYYY-MM-DD format!
@@ -16,10 +16,7 @@ summary: An internship project where we had to develop a website for the state.
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+In this intership project, we were tasked with developing a website for the state of Hawaii for the new storm water utilities fee that they are planning on implementing soon. This website needed to show users facts on the subject at hand and also show them what the cost of the fee would be for their property. The website we created can be found in the link below. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Website: [Storm Water Utilities Website](https://dev.cimp2021.datahouse.com/Home) 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
