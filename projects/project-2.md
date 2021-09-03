@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/swu.jpg
+image: images/swu.JPG
 title: SWU Project
 permalink: projects/SWU
 # All dates must be YYYY-MM-DD format!
