@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cpu.PNG
+image: images/cpu.JPG
 title: CPU Project
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
