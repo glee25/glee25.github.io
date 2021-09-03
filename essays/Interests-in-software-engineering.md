@@ -9,7 +9,6 @@ labels:
   - Learning
   - Goals
 ---
-<img src="../images/Future.png" >
 
 ## Interests...
 My Interests in Software engineering starts with my love for computers. Computers have been a huge part of my life especially now as we are learning through online applications. I think my interest for software engineering started to peak in my sophmore year of college where I decided to switch from majoring in mechanical engineering to computer engineering. This switch made my path to graduation a lot more difficult, but I think it was the right choice as I would rather be working with computers than with robotics.
