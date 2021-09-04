@@ -5,7 +5,7 @@ image: images/swu.JPG
 title: SWU Project
 permalink: projects/SWU
 # All dates must be YYYY-MM-DD format!
-date: 2019-12-01
+date: 2020-12-01
 labels:
   - Javascript
   - Github
