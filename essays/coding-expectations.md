@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Coding Expectations
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-24
+date: 2021-09-23
 labels:
   - Learning
   - Coding Standard
