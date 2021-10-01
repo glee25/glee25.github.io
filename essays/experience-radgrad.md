@@ -10,7 +10,7 @@ labels:
   - Goals
 ---
 
-##Experience with RadGrad
+## Experience with RadGrad
 
 After completing the RadGrad New User tutorial I have a new perspective on computer science. From the tutorial, I learned that there are many different opportunities at UH for computer science that I didn't know were available to us before. I also learned more about what classes I plan to take for next semester and also the “ICE” score gave me a good gauge as to how I am doing so for my college career.
 
