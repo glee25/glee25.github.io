@@ -9,7 +9,7 @@ labels:
   - Sematic UI
 ---
 
-## The use of UI
+## The Use of UI
 
 Looking at a website you are first presented with a user interface this is what everyone sees when they look at your website. It may look good to the eyes and very appealing, but I am here to say that it is not that simple. Using HTML and CSS to make a website by itself is not the best way in looking at things. You are very limited in what you can produce using just the raw forms of these languages. We create websites using them, but there are better ways in which we can achieve this. Knowing this, we used something called Semantic UI. 
 
