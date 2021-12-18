@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing.png
+image: images/career.png
 title: Career Match Project
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
