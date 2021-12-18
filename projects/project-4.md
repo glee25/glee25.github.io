@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: images/cpu.JPG
-title: CPU Project
+title: Career Match Project
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-12-17
 labels: 
-  - Hardware
-  - CPU
-summary: In this project, we had to make a report on a specific CPU of our choosing.
+  - Web Design
+  - Software Engineering
+summary: In this project, our group created a website that will help companies and students reach out to each other.
 ---
