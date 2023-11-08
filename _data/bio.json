@@ -80,6 +80,10 @@
       "endDate": "2022-05-20",
       "gpa": "3.2",
       "courses": [
+        "ICS 635: Machine Learning",
+        "ICS 612: Theory of Operating Systems",
+        "ICS 613: Advance Software Engineering",
+        "ICS 660: Computer Architecture I"
       ]
     }
   ],
