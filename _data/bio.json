@@ -53,7 +53,11 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly"
+        "Assembly",
+        "Python",
+        "Verilog",
+        "Unix",
+        "SQL"
       ]
     },
     {
@@ -69,12 +73,12 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2022)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2018-08-23",
-      "endDate": "Present",
-      "gpa": "2.8",
+      "endDate": "2022-05-20",
+      "gpa": "3.2",
       "courses": [
       ]
     }
@@ -85,15 +89,14 @@
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2019-07-01",
-      "endDate": "Present",
+      "endDate": "2022-05-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Answer technical questions about ITS services and supported software from walk-in customers.",
+        "Assist walk-in support customers to the ITS Labs.",
+        "Troubleshoot customer problems with ITS supported software."
       ]
     }
-  ],
-  "volunteer": [
   ],
   "awards": [
     {
@@ -103,10 +106,4 @@
       "summary": "Scholarships awarded to incoming freshmen that are proficient at their instrument and their need for people who play that specific instrument."
     }
   ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
 }
