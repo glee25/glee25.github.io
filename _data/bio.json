@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Gerald Lee",
-    "label": "Student",
+    "label": "Graduate",
     "picture": "https://glee25.github.io/images/glee25.jpeg",
-    "email": "glee25@hawaii.edu",
+    "email": "glee25@hawaii.edu | lee.gerald25@gmail.com",
     "phone": "808-295-3889",
     "website": "https://glee25.github.io",
-    "summary": "I am a Graduate from the University of Hawaii at Manoa with my B.S. in Computer Engineering from the Department of Engineering.",
+    "summary": "Graduate of the University of Hawaii at Manoa with a B.S. in Computer Engineering and an M.S. in Computer Science. Holds a Secret security clearance granted by the Department of Defense (2025).",
     "location": {
       "address": "1212 Haloa Dr.",
       "postalCode": "96818",
@@ -28,57 +28,45 @@
     ]
   },
   "interests": [
-    {
-      "name": "software engineering",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "electrical engineering",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
+    { "name": "Software engineering", "keywords": [] },
+    { "name": "Computer engineering", "keywords": [] },
+    { "name": "AI", "keywords": [] }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Python",
-        "Verilog",
-        "Unix",
-        "SQL"
+        "Python", "Java", "C++", "C#", "JavaScript", "SQL", "C",
+        "HTML", "Bootstrap", "Firebase", "Unix", "Verilog", "VHDL", "Assembly"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Git/GitHub",
-        "Windows",
-        "Microsoft"
+        "MacOS", "Git/GitHub", "Windows", "Microsoft", "AWS", "Angular JS",
+        "Node JS", "Meteor", "MongoDB", "Jupyter Notebooks"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2023-01-01",
+      "endDate": "2025-12-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2018-08-23",
       "endDate": "2022-05-20",
-      "gpa": "3.2",
+      "gpa": "3.3",
       "courses": [
         "ICS 635: Machine Learning",
         "ICS 612: Theory of Operating Systems",
@@ -89,25 +77,99 @@
   ],
   "work": [
     {
+      "company": "P3I – NIWCPAC",
+      "position": "Cybersecurity Intern",
+      "website": "",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
+      "summary": "",
+      "highlights": [
+        "Stood up a naval proprietary software on an air-gapped system that ingests cybersecurity data from sensors, enabling users to query data for proactive intelligence and threat hunting.",
+        "Used machine learning (Jupyter Notebooks) to benchmark data queries and test red/blue team cybersecurity scenarios, comparing performance against previous software versions."
+      ]
+    },
+    {
+      "company": "DataHouse",
+      "position": "Software Engineering Intern",
+      "website": "",
+      "startDate": "2021-01-01",
+      "endDate": "2021-06-01",
+      "summary": "",
+      "highlights": [
+        "Developed a web application as a front-end software engineer using Angular JS and Node JS.",
+        "Utilized AWS to share work with teammates and collaborate on code.",
+        "Assisted with implementing a Google Maps API to enable users to locate their properties using a search function."
+      ]
+    },
+    {
       "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "position": "Information Technology Student Assistant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2019-07-01",
       "endDate": "2022-05-01",
       "summary": "",
       "highlights": [
-        "Answer technical questions about ITS services and supported software from walk-in customers.",
-        "Assist walk-in support customers to the ITS Labs.",
+        "Answered technical questions about ITS services and supported software from walk-in customers.",
+        "Assisted walk-in support customers to the ITS Labs.",
         "Troubleshoot customer problems with ITS supported software."
       ]
     }
   ],
+  "projects": [
+    {
+      "name": "AI-Augmented Learning & Metacognitive Skill Research",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-01",
+      "highlights": [
+        "Conducted empirical research on AI enhancers and defeaters in software engineering education using Workout-of-the-Day (WOD) exercises.",
+        "Analyzed student pass-rate data comparing AI-assisted vs non-AI-assisted workflows.",
+        "Designed instructional constraints to promote metacognitive skills such as test design, prompt engineering, and error detection.",
+        "Co-authored structured analysis sections including results, discussion, and educational implications."
+      ]
+    },
+    {
+      "name": "Python LMS Website",
+      "startDate": "2023-08-01",
+      "endDate": "2023-12-01",
+      "highlights": [
+        "Developed a website for a sponsor to teach young students the basics of Python programming.",
+        "Designed the website using Bootstrap for the frontend and implemented Firebase for backend storage.",
+        "Organized and led monthly meetings with two teammates and the sponsor to present progress, gather feedback, and address additional requests."
+      ]
+    },
+    {
+      "name": "Volunteer Ally Website",
+      "startDate": "2022-01-01",
+      "endDate": "2022-06-01",
+      "highlights": [
+        "Created a website application to better connect volunteers with organizations.",
+        "Displayed relevant information specific to volunteer work and facilitated communication between volunteers and organizational contacts.",
+        "Built and tested the web application using the Meteor framework and used MongoDB for storing user and organizational information.",
+        "Collaborated with five teammates using GitHub for version control and code sharing."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Understanding npm Developers' Practices, Challenges, and Recommendations for Secure Package Development",
+      "publisher": "CHASE 2026",
+      "releaseDate": "2025",
+      "authors": "Lee, Gerald, et al.",
+      "summary": "Co-authored peer-reviewed research analyzing AI-assisted development workflows; conducted experimental design, data analysis, and quantitative evaluation of developer performance and decision-making."
+    }
+  ],
   "awards": [
+    {
+      "title": "Secret Security Clearance",
+      "date": "2025",
+      "awarder": "Department of Defense",
+      "summary": "Secret-level security clearance granted by the Department of Defense."
+    },
     {
       "title": "Music Scholarship",
       "date": "2018-2022",
       "awarder": "University of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen that are proficient at their instrument and their need for people who play that specific instrument."
+      "summary": "Scholarship awarded to incoming freshmen that are proficient at their instrument and meet the need for people who play that specific instrument."
     }
-  ],
+  ]
 }
