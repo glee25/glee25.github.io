@@ -14,4 +14,4 @@ labels:
 
 Co-authored peer-reviewed research analyzing AI-assisted development workflows; conducted experimental design, data analysis, and quantitative evaluation of developer performance and decision-making.
 
-Here is a link to the paper: https://arxiv.org/pdf/2601.20240
+Link to the paper: [Here](https://arxiv.org/pdf/2601.20240)
