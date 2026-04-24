@@ -4,7 +4,7 @@ type: project
 image: images/software-code.jpg
 title: Python LMS Website
 permalink: projects/python-lms
-date: 2023-12-01
+date: 2023-08-01
 labels:
   - Bootstrap
   - Firebase

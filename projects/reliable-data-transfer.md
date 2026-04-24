@@ -4,7 +4,7 @@ type: project
 image: images/software-code.jpg
 title: Reliable Data Transfer Protocol over UDP
 permalink: projects/reliable-data-transfer
-date: 2025-12-01
+date: 2025-09-01
 labels:
   - C
   - Networking

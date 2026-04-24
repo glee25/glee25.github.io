@@ -4,7 +4,7 @@ type: project
 image: images/career.png
 title: Stock Price Prediction with Machine Learning
 permalink: projects/stock-price-prediction
-date: 2023-05-01
+date: 2023-03-01
 labels:
   - Python
   - Machine Learning
