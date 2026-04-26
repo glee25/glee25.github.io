@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/software-code.jpg
+image: images/pythonLMS.png
 title: Python LMS Website
 permalink: projects/python-lms
 date: 2023-08-01

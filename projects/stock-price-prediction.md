@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/career.png
+image: images\stockPricePred.png
 title: Stock Price Prediction with Machine Learning
 permalink: projects/stock-price-prediction
 date: 2023-03-01

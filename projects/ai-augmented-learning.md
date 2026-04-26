@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/design-technology.jpg
+image: images/metacognitiveGenAI.png
 title: AI-Augmented Learning & Metacognitive Skill Research
 permalink: projects/ai-augmented-learning
 date: 2025-01-01
